@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>branding on Sassie.me</title>
+    <link>https://sassie.me/categories/branding/</link>
+    <description>Recent content in branding on Sassie.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:35 +0600</lastBuildDate><atom:link href="https://sassie.me/categories/branding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tarmakk</title>
+      <link>https://sassie.me/portfolio/project-2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:35 +0600</pubDate>
+      
+      <guid>https://sassie.me/portfolio/project-2/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
