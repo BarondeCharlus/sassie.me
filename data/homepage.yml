@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Hi, my name is Flossie but everybody calls me Sassie. I love to organize, put things in order, keep all clear and simple and mix it with glitters and colors to make people happier. Im looking forward to meet you ! :)"
+  content : "Hi, my name is Flossie but everybody calls me Sassie. I love to organize, put things in order, keep all clear and simple and mix it with glitters and colors to make people happier. Can't wait to meet you ! :)"
   button:
     enable : true
     label : "know more"
