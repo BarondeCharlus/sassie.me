@@ -1,9 +1,9 @@
 # default configuration
-baseURL = "http://127.0.0.1/"
+baseURL = "https://sassie.me"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Sassie.me"
+title = "Sassie.me 🐝"
 
 # css plugins
 [[params.plugins.css]]
@@ -98,12 +98,12 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "ti-linkedin"
-URL = "#"
+URL = "https://www.linkedin.com/in/sassie/"
 
 [[params.social]]
 icon = "ti-instagram"
-URL = "#"
+URL = "https://www.instagram.com/sassie_bee_me/"
 
 [[params.social]]
 icon = "ti-dribbble"
-URL = "#"
+URL = "https://dribbble.com/sassie_bee_me"
