@@ -34,8 +34,8 @@ name = "About"
 weight = 1
 
 [[menu.main]]
-URL = "CV.pdf"
-name = "CV/"
+URL = "https://sassie.me/CV.pdf"
+name = "CV"
 weight = 4
 
 [[menu.main]]
