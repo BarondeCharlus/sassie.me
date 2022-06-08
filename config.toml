@@ -3,7 +3,7 @@ baseURL = "https://sassie.me"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Sassie.me 🐝"
+title = "Sassie.me"
 
 # css plugins
 [[params.plugins.css]]
