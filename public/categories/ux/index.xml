@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ux on Sassie.me</title>
+    <link>https://sassie.me/categories/ux/</link>
+    <description>Recent content in ux on Sassie.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2022 12:14:35 +0600</lastBuildDate><atom:link href="https://sassie.me/categories/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tarmakk</title>
+      <link>https://sassie.me/portfolio/project-2/</link>
+      <pubDate>Sun, 05 Jun 2022 12:14:35 +0600</pubDate>
+      
+      <guid>https://sassie.me/portfolio/project-2/</guid>
+      <description>#tarm { list-style-type: disc !important; }  Project Requirements  Keep Company colors design   Simplify user workflow   Organize datas &amp; features accessibility   Full web integrated app   Responsive Design prototype   APIs binded actions   CRUD integration by click actions   Project Details Tarmakk is my first real big project I had to realize.</description>
+    </item>
+    
+    <item>
+      <title>Goldorak</title>
+      <link>https://sassie.me/portfolio/project-1/</link>
+      <pubDate>Mon, 30 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://sassie.me/portfolio/project-1/</guid>
+      <description>#gold { list-style-type: disc !important; }  Project Requirements  Full web integrated app   Responsive Design prototype   APIs binded actions   CRUD integration by click actions   Design identity   Complex knowledge on UNIX system  Project Details Working on Goldorak was really fun!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,30 +1,45 @@
 ---
 title: "Goldorak"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/goldorak-1.png"
-client: "John Doooe"
-project_url : "https://themefisher.com/"
-categories: ["design","development"]
-description: "This is meta description."
+date: 2022-05-30T12:14:34+06:00
+image: "images/portfolio/goldorak-4.png"
+client: "Payfit"
+project_url : "INTERNAL"
+categories: ["design","integration", "ux"]
+description: "Goldorak Project"
 draft: false
 ---
 
+<style>
+#gold {
+    list-style-type: disc !important;
+}
+</style>
+
 #### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
+<ul id='gold'>
+<li> Full web integrated app </li>
+<li> Responsive Design prototype </li>
+<li> APIs binded actions </li>
+<li> CRUD integration by click actions </li>
+<li> Design identity </li>
+<li> Complex knowledge on UNIX system</li>
+</ul>
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Working on Goldorak was really fun! It took me back to childhood, I wanted this feeling on this project through my design product. Users are IT collaborators so they enjoyed this artistic decision ! Creating the planets was my favourite part. 
+
+My challenge was to create an app that handles a whole complex IT system I wasn't familiar with.
+
+Thank you again to trust me !
+
+*Goldorak flat design illustration made by [Sedkialimam](https://dribbble.com/Sedkialimam)*
+
+#### Preview
+
+<center>
+<img src="images/../../../images/portfolio/goldorak-4.png" alt="goldorak_img" width=500px height=400px/>
+<img src="images/../../../images/portfolio/goldorak-1.png" alt="goldorak_img" width=500px height=400px/>
+<img src="images/../../../images/portfolio/goldorak-2.png" alt="goldorak_img" width=500px height=400px/>
+<img src="images/../../../images/portfolio/goldorak-5.png" alt="goldorak_img" width=500px height=400px/>
+</center>

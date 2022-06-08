@@ -6,11 +6,11 @@
     <description>Recent content in Categories on Sassie.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:35 +0600</lastBuildDate><atom:link href="https://sassie.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jun 2022 12:14:35 +0600</lastBuildDate><atom:link href="https://sassie.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>branding</title>
       <link>https://sassie.me/categories/branding/</link>
-      <pubDate>Sun, 12 May 2019 12:14:35 +0600</pubDate>
+      <pubDate>Sun, 05 Jun 2022 12:14:35 +0600</pubDate>
       
       <guid>https://sassie.me/categories/branding/</guid>
       <description></description>
@@ -19,18 +19,36 @@
     <item>
       <title>design</title>
       <link>https://sassie.me/categories/design/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <pubDate>Sun, 05 Jun 2022 12:14:35 +0600</pubDate>
       
       <guid>https://sassie.me/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://sassie.me/categories/development/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>integration</title>
+      <link>https://sassie.me/categories/integration/</link>
+      <pubDate>Sun, 05 Jun 2022 12:14:35 +0600</pubDate>
       
-      <guid>https://sassie.me/categories/development/</guid>
+      <guid>https://sassie.me/categories/integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ux</title>
+      <link>https://sassie.me/categories/ux/</link>
+      <pubDate>Sun, 05 Jun 2022 12:14:35 +0600</pubDate>
+      
+      <guid>https://sassie.me/categories/ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>illustration</title>
+      <link>https://sassie.me/categories/illustration/</link>
+      <pubDate>Wed, 01 Jun 2022 12:14:36 +0600</pubDate>
+      
+      <guid>https://sassie.me/categories/illustration/</guid>
       <description></description>
     </item>
     

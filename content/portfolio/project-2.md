@@ -1,30 +1,54 @@
 ---
 title: "Tarmakk"
-date: 2019-05-12T12:14:35+06:00
+date: 2022-06-05T12:14:35+06:00
 image: "images/portfolio/tarmak-2.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
-description: "This is meta description."
+client: "Payfit"
+project_url : "INTERNAL"
+categories: ["branding", "ux", "design", "integration"]
+description: "Tarmakk Project."
 draft: false
 ---
 
+<style>
+#tarm {
+    list-style-type: disc !important;
+}
+</style>
+
 #### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
+<ul id='tarm'>
+<li> Keep Company colors design </li>
+<li> Simplify user workflow </i>
+<li> Organize datas & features accessibility </i>
+<li> Full web integrated app </li>
+<li> Responsive Design prototype </li>
+<li> APIs binded actions </li>
+<li> CRUD integration by click actions </li>
+</ul>
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Tarmakk is my first real big project I had to realize. This one is exclusive to Payfit company.
+
+The starter template I had to work on was originally build with material design. However, feedbacks from the users showed some flaws in the daily usage, from different application's components and elements.
+
+My biggest challenge was to simplify a full application that needs to be used by so many different user profiles such as : IT, HR, HRBP, Finance and Datas.
+
+I loved working on this project with the wonderful Kader Ovski and meeting the friendly Payfit's team !
+
+#### Preview
+
+<center>
+<img src="images/../../../images/portfolio/tarmak.gif" alt="tarmak_gif" width=800px/>
+</center>
+
+#### Preview
+
+<center>
+<img src="images/../../../images/portfolio/tarmak-2.png" alt="tarmak_img" width=500px height=400px/>
+<img src="images/../../../images/portfolio/tarmak-3.png" alt="tarmak_img" width=500px height=400px/>
+<img src="images/../../../images/portfolio/tarmak-4.png" alt="tarmak_img" width=500px height=400px/>
+<img src="images/../../../images/portfolio/tarmak-5.png" alt="tarmak_img" width=500px height=400px/>
+<img src="images/../../../images/portfolio/tarmak-7.png" alt="tarmak_img" width=500px height=400px/>
+<img src="images/../../../images/portfolio/tarmak-9.png" alt="tarmak_img" width=500px height=400px/>
+</center>

@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Hi, my name is Flossie but everybody calls me Sassie. I love to organize, put things in order, keep all clear and simple and mix it with glitters and colors to make people happier. Can't wait to meet you ! :)"
+  content : "Hi, my name is Flossie but everyone calls me Sassie. I like to organize, tidy, keep things simple and clear. But I also like glitter and colors. This job allows me to combine the two!"
   button:
     enable : true
     label : "know more"
@@ -17,15 +17,15 @@ skill:
   title : "Skills"
   item:
     - title : "Web Design"
-      progress : "90%"
+      progress : "70%"
       color : "#fdb157"
       
     - title : "UX audit"
-      progress : "60%"
+      progress : "70%"
       color : "#9473e6"
       
     - title : "Figma"
-      progress : "80%"
+      progress : "70%"
       color : "#bdecf6"
       
     - title : "Story Telling"

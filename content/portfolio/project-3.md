@@ -9,22 +9,28 @@ description: "This is meta description."
 draft: true
 ---
 
+<style>
+#gold {
+    list-style-type: disc !important;
+}
+</style>
+
 #### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
+<ul id='gold'>
+<li> Full web integrated app </li>
+<li> Responsive Design prototype </li>
+<li> APIs binded actions </li>
+<li> CRUD integration by click actions </li>
+<li> Design identity </li>
+<li> Complex knowledge on UNIX system</li>
+</ul>
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Tarmakk is my first real big project I had to realize. This one is exclusive to Payfit company.
+
+The starter template I had to work on was originally build with material design. However, feedbacks from the users showed some flaws in the daily usage, from different application's components and elements.
+
+My biggest challenge was to simplify a full application that needs to be used by so many different user profiles such as : IT, HR, HRBP, Finance and Datas.
+
+I loved working on this project with the wonderful Kader Ovski and meeting the friendly Payfit's team !
