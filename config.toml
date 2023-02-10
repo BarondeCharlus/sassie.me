@@ -59,9 +59,9 @@ logo = ""
 # theme color
 theme_color = "#eda6bf"
 # contact info
-phone = "+33 6 66 48 53 76"
-email = "jobs@sassie.me"
-address = "14000, Caen France"
+#phone = "+33 6 66 48 53 76"
+#email = "jobs@sassie.me"
+#address = "France"
 # meta description
 author = "Sassie"
 description = "This is meta description"
